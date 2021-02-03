@@ -8,8 +8,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=zeing&show_icons=true">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=einguht&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
-
 </div>
 <!--
 **zeing/zeing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
