@@ -6,7 +6,7 @@
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=zeing&show_icons=true&theme=highcontrast&hide=stars&include_all_commits=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=zeing&show_icons=true&theme=graywhite&hide=stars&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeing&layout=compact&show_icons=true)
 
 <!--
