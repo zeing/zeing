@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zeing)
+[![forthebadge](https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=flat&logo=instagram)](https://www.instagram.com/zeing/)
+[![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=flat&logo=linkedin)](https://www.linkedin.com/in/witthawin/)
 
-<div style="display: flex;">
 
-<img style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeing&hide_langs_below=1">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeing&show_icons=true">
+![Github stats](https://github-readme-stats.vercel.app/api?username=zeing&show_icons=true&theme=highcontrast&hide=stars&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeing&layout=compact&show_icons=true)
 
-</div>
 <!--
 **zeing/zeing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
