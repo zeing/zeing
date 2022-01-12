@@ -6,7 +6,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V86XXAH)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zeing&show_icons=true&theme=graywhite&hide=stars&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeing&layout=compact&show_icons=true&count_private=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeing&layout=compact&show_icons=true&count_private=true&langs_count=20)
 
 <!--
 **zeing/zeing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
