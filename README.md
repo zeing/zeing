@@ -3,8 +3,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zeing)
 [![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=flat&logo=linkedin)](https://www.linkedin.com/in/witthawin/)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=zeing&show_icons=true&theme=graywhite&hide=stars&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeing&layout=compact&show_icons=true&count_private=true&langs_count=20)
 
 <!--
 **zeing/zeing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
