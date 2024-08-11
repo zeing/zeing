@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zeing)
 [![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=flat&logo=linkedin)](https://www.linkedin.com/in/witthawin/)
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V86XXAH)
 
 <!--
 **zeing/zeing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
